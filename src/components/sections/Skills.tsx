@@ -10,6 +10,10 @@ import {
   SiDocker,
   SiGit,
   SiPython,
+  SiKotlin,
+  SiGooglecloud,
+  SiSwift,
+  SiGoland,
   SiAmazon,
   SiKubernetes,
   SiMongodb,
@@ -34,6 +38,10 @@ const skillIcons: Record<string, React.ComponentType<{ size?: number; className?
   AWS: SiAmazon,
   Kubernetes: SiKubernetes,
   MongoDB: SiMongodb,
+  Kotlin: SiKotlin,
+  GCP: SiGooglecloud,
+  Swift: SiSwift,
+  Goland: SiGoland,
 };
 
 const Skills = ({ skills }: SkillsProps) => {

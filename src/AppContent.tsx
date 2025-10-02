@@ -5,7 +5,7 @@ import Hero from './components/sections/Hero';
 import About from './components/sections/About';
 import Skills from './components/sections/Skills';
 import Experience from './components/sections/Experience';
-import Projects from './components/sections/Projects';
+// import Projects from './components/sections/Projects';
 import Contact from './components/sections/Contact';
 import { portfolioData, getLocalizedData } from './data/portfolio';
 
@@ -32,7 +32,7 @@ function AppContent() {
 
         <Experience experiences={getLocalizedData(portfolioData.experiences, language)} />
 
-        <Projects projects={getLocalizedData(portfolioData.projects, language)} />
+        {/* <Projects projects={getLocalizedData(portfolioData.projects, language)} /> */}
 
         <Contact email={portfolioData.email} />
       </main>
