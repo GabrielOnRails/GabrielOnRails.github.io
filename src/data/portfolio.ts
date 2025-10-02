@@ -61,14 +61,25 @@ I specialize in full-stack development, cloud architecture, and agile methodolog
   experiences: {
     'pt-BR': [
       {
+        position: "Engineering Lead",
+        company: "Frota162",
+        dates: "ABR 2025 - ATUALMENTE",
+        description: [
+          "Lidero 2 times de desenvolvimento de software, focando em desenvolvimento web e implementações utilizando Inteligência Artificial",
+          "Responsável por contribuições de Chapters de Tecnologia, Backend e Frontend",
+          "Responsável pela manutenabilidade das aplicações, sendo guardião da Qualidade de Software e das boas práticas",
+          "Responsável pelo desenvolvimento de ponta a ponta, desde refinamentos com o Time de Produto, até o monitoramento pós deploy em Produção",
+        ],
+      },
+      {
         position: "Principal Software Engineer",
         company: "Bradesco",
         dates: "JUL 2024 - ABR 2025",
         description: [
-          "Liderei e desenvolvi integrações estratégicas com o Banco Central via SPI,STA, DICT e SPB, utilizando o padrão ISO 20022.",
-          "Atuei como referência técnica para as equipes, disseminando as melhores práticas de desenvolvimento em GoLang e Kotlin.",
-          "Liderei a definição da arquitetura de software para canais internos do banco, projetando soluções robustas, escaláveis e seguras.",
-          "Implementei o motor de fluxos de trabalho Temporal para a orquestração de processos distribuídos e o Open Policy Agent (OPA) para gestão de políticas de segurança em microsserviços.",
+          "Liderei e desenvolvi integrações estratégicas com o Banco Central via SPI,STA, DICT e SPB, utilizando o padrão ISO 20022",
+          "Atuei como referência técnica para as equipes, disseminando as melhores práticas de desenvolvimento em GoLang e Kotlin",
+          "Liderei a definição da arquitetura de software para canais internos do banco, projetando soluções robustas, escaláveis e seguras",
+          "Implementei o motor de fluxos de trabalho Temporal para a orquestração de processos distribuídos e o Open Policy Agent (OPA) para gestão de políticas de segurança em microsserviços",
         ],
       },
       {
@@ -78,7 +89,7 @@ I specialize in full-stack development, cloud architecture, and agile methodolog
         description: [
           "Liderei uma equipe no desenvolvimento de um marketplace global para o agronegócio, com suporte para 3 idiomas e foco na internacionalização",
           "Desenvolvi e arquitetei soluções baseadas em microsserviços e microfront-ends para garantir a escalabilidade e manutenibilidade da plataforma",
-          "Implementei a camada de Backend for Frontend (BFF) para otimizar a comunicação entre o front-end e os microsserviços.",
+          "Implementei a camada de Backend for Frontend (BFF) para otimizar a comunicação entre o front-end e os microsserviços",
         ],
       },
       {
@@ -86,8 +97,8 @@ I specialize in full-stack development, cloud architecture, and agile methodolog
         company: "FIOCRUZ - Fundação Oswaldo Cruz",
         dates: "JAN 2023 - DEZ 2023",
         description: [
-          "Gerenciei e mentorei uma equipe técnica de 87 profissionais, liderando os projetos dos aplicativos e-SUS e Meu SUS Digital.",
-          "Liderei a implementação de um barramento de dados no Ministério da Saúde para unificar os processos digitais do SUS em todo o Brasil.",
+          "Gerenciei e mentorei uma equipe técnica de 87 profissionais, liderando os projetos dos aplicativos e-SUS e Meu SUS Digital",
+          "Liderei a implementação de um barramento de dados no Ministério da Saúde para unificar os processos digitais do SUS em todo o Brasil",
           "Arquitetei soluções resilientes e elásticas em nuvem (AWS) e desenvolvi sistemas embarcados com Visão Computacional e GenAI",
         ],
       },
@@ -130,6 +141,17 @@ I specialize in full-stack development, cloud architecture, and agile methodolog
       },
     ],
     'en-US': [
+      {
+        position: "Engineerin Lead",
+        company: "Frota162",
+        dates: "APR 2025 - CURRENT",
+        description: [
+          "I led two software development teams, focusing on web development and implementations using Artificial Intelligence",
+          "Responsible for contributions from Technology, Backend, and Frontend Chapters",
+          "I'm also responsible for application maintainability, ensuring Software Quality and best practices",
+          "Responsible for end-to-end development, from refinements with the Product Team to post-deployment monitoring in Production",
+        ],
+      },
       {
         position: "Principal Software Engineer",
         company: "Bradesco",
