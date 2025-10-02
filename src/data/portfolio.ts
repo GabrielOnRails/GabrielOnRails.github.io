@@ -25,7 +25,7 @@ export const portfolioData = {
   email: "gabrielspaulinod@gmail.com",
   githubUrl: "https://github.com/GabrielOnRails",
   linkedinUrl: "https://www.linkedin.com/in/gabriel-tech/",
-  profileImage: "https://via.placeholder.com/400", // Replace with your actual profile image URL
+  profileImage: "/images/profile.jpeg",
 
   // About Section
   about: {
