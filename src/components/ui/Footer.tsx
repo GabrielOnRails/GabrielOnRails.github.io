@@ -35,13 +35,13 @@ const Footer = ({ name, githubUrl, linkedinUrl, email, currentYear }: FooterProp
             >
               <FiLinkedin size={24} />
             </a>
-            <a
+            {/* <a
               href={`mailto:${email}`}
               className="text-dark-muted hover:text-accent-primary transition-colors duration-200"
               aria-label="Email"
             >
               <FiMail size={24} />
-            </a>
+            </a> */}
           </div>
 
           {/* Copyright */}
