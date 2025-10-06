@@ -142,7 +142,7 @@ I specialize in full-stack development, cloud architecture, and agile methodolog
     ],
     'en-US': [
       {
-        position: "Engineerin Lead",
+        position: "Engineering Lead",
         company: "Frota162",
         dates: "APR 2025 - CURRENT",
         description: [
