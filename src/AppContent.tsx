@@ -41,7 +41,6 @@ function AppContent() {
         name={portfolioData.name}
         githubUrl={portfolioData.githubUrl}
         linkedinUrl={portfolioData.linkedinUrl}
-        email={portfolioData.email}
         currentYear={portfolioData.currentYear}
       />
     </div>

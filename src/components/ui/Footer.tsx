@@ -1,15 +1,14 @@
-import { FiGithub, FiLinkedin, FiMail } from 'react-icons/fi';
+import { FiGithub, FiLinkedin } from 'react-icons/fi';
 import { useLanguage } from '../../contexts/LanguageContext';
 
 interface FooterProps {
   name: string;
   githubUrl: string;
   linkedinUrl: string;
-  email: string;
   currentYear: number;
 }
 
-const Footer = ({ name, githubUrl, linkedinUrl, email, currentYear }: FooterProps) => {
+const Footer = ({ name, githubUrl, linkedinUrl, currentYear }: FooterProps) => {
   const { t } = useLanguage();
   return (
     <footer className="bg-dark-card border-t border-dark-border py-8">
