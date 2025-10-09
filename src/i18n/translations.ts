@@ -6,6 +6,7 @@ export const translations = {
       skills: 'Habilidades',
       experience: 'Experiência',
       projects: 'Projetos',
+      mentorship: 'Mentoria',
       contact: 'Contato',
     },
     hero: {
@@ -27,6 +28,14 @@ export const translations = {
     projects: {
       title: 'Projetos em',
       titleHighlight: 'Destaque',
+    },
+    mentorship: {
+      title: 'Mentoria',
+      titleHighlight: 'Individual',
+      description:
+        'Interessado em acelerar sua carreira em desenvolvimento? Ofereço sessões de mentoria personalizadas para ajudá-lo a alcançar seus objetivos profissionais.',
+      buttonText: 'Agendar Mentoria',
+      whatsappMessage: 'Olá! Gostaria de saber mais sobre as sessões de mentoria.',
     },
     contact: {
       title: 'Entre em',
@@ -58,6 +67,7 @@ export const translations = {
       skills: 'Skills',
       experience: 'Experience',
       projects: 'Projects',
+      mentorship: 'Mentorship',
       contact: 'Contact',
     },
     hero: {
@@ -79,6 +89,14 @@ export const translations = {
     projects: {
       title: 'Featured',
       titleHighlight: 'Projects',
+    },
+    mentorship: {
+      title: 'Individual',
+      titleHighlight: 'Mentorship',
+      description:
+        'Interested in accelerating your development career? I offer personalized mentoring sessions to help you achieve your professional goals.',
+      buttonText: 'Schedule Mentorship',
+      whatsappMessage: 'Hi! I would like to know more about the mentoring sessions.',
     },
     contact: {
       title: 'Get In',
