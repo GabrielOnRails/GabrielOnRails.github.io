@@ -93,7 +93,7 @@ I specialize in full-stack development, cloud architecture, and agile methodolog
         ],
       },
       {
-        position: "Desenvolvedor Full Stack",
+        position: "Software Emgineering Manager",
         company: "FIOCRUZ - Fundação Oswaldo Cruz",
         dates: "JAN 2023 - DEZ 2023",
         description: [
