@@ -73,7 +73,7 @@ I specialize in full-stack development, cloud architecture, and agile methodolog
       },
       {
         position: "Principal Software Engineer",
-        company: "Bradesco",
+        company: "Banco Confidencial",
         dates: "JUL 2024 - ABR 2025",
         description: [
           "Liderei e desenvolvi integrações estratégicas com o Banco Central via SPI,STA, DICT e SPB, utilizando o padrão ISO 20022",
@@ -154,7 +154,7 @@ I specialize in full-stack development, cloud architecture, and agile methodolog
       },
       {
         position: "Principal Software Engineer",
-        company: "Bradesco",
+        company: "Banco Confidencial",
         dates: "JUL 2024 - APR 2025",
         description: [
           "I led and developed strategic integrations with the Central Bank via SPI, STA, DICT, and SPB, using the ISO 20022 standard",
